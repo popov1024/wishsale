@@ -1,0 +1,43 @@
+# VCS
+.git
+.gitignore
+.github
+
+# Python
+__pycache__
+*.py[cod]
+*.egg-info
+.eggs
+build
+dist
+.venv
+venv
+env
+.pytest_cache
+.mypy_cache
+.ruff_cache
+.tox
+.nox
+.coverage
+htmlcov
+.python-version
+
+# Секреты и окружение (токен/chat_id в образ не копируются)
+.env
+.env.*
+
+# Данные и логи (монтируются с хоста как тома, в образ не копируются)
+data
+logs
+*.log
+*.db
+*.sqlite
+*.sqlite3
+
+# Тесты в образе не нужны
+tests
+
+# IDE / OS
+.DS_Store
+.idea
+.vscode
