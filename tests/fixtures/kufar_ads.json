@@ -1,0 +1,864 @@
+{
+ "ads": [
+  {
+   "account_id": "O-p-2Q7XhqzquV-2Yzm59Gw",
+   "account_parameters": [
+    {
+     "pl": "Имя",
+     "vl": "",
+     "p": "name",
+     "v": "Евгения",
+     "pu": "nme"
+    }
+   ],
+   "ad_id": 1082200659,
+   "ad_link": "https://www.kufar.by/item/1082200659",
+   "ad_parameters": [
+    {
+     "pl": "Категория",
+     "vl": "Спорттовары",
+     "p": "category",
+     "v": 4020,
+     "pu": "cat"
+    },
+    {
+     "pl": "Регион",
+     "vl": "Гомельская область",
+     "p": "region",
+     "v": 2,
+     "pu": "rgn"
+    },
+    {
+     "pl": "Город / Район",
+     "vl": "Гомель",
+     "p": "area",
+     "v": "5",
+     "pu": "ar"
+    },
+    {
+     "pl": "Тип оплаты",
+     "vl": "Цена",
+     "p": "remuneration_type",
+     "v": "1",
+     "pu": "rtr"
+    },
+    {
+     "pl": "Тип",
+     "vl": "Ролики",
+     "p": "sports_type",
+     "v": "18",
+     "pu": "stp"
+    },
+    {
+     "pl": "Размер",
+     "vl": [
+      "29",
+      "30",
+      "31",
+      "32"
+     ],
+     "p": "sports_shoes_size",
+     "v": [
+      10,
+      11,
+      12,
+      13
+     ],
+     "pu": "ssz"
+    },
+    {
+     "pl": "Состояние",
+     "vl": "Б/у",
+     "p": "condition",
+     "v": "1",
+     "pu": "cnd"
+    }
+   ],
+   "body": null,
+   "body_short": null,
+   "calculator": [
+    {
+     "currency": "USD",
+     "price": "1006",
+     "price_per_meter": null
+    },
+    {
+     "currency": "EUR",
+     "price": "859",
+     "price_per_meter": null
+    },
+    {
+     "currency": "BYN",
+     "price": "3000",
+     "price_per_meter": null
+    },
+    {
+     "currency": "RUB",
+     "price": "83836",
+     "price_per_meter": null
+    }
+   ],
+   "category": "4020",
+   "company_ad": false,
+   "currency": "BYR",
+   "feedback_info": null,
+   "images": [
+    {
+     "id": "0000",
+     "media_storage": "rms",
+     "path": "adim1/30498e9b-ab33-4693-aaab-cb7c8df5a588.jpg",
+     "yams_storage": false
+    },
+    {
+     "id": "0000",
+     "media_storage": "rms",
+     "path": "adim1/00848f4d-12c2-48a9-b1bc-00158f46c271.jpg",
+     "yams_storage": false
+    }
+   ],
+   "is_mine": false,
+   "list_id": 1082200659,
+   "list_time": "2026-08-23T10:27:11Z",
+   "message_id": "adid1082200659",
+   "paid_services": {
+    "halva": false,
+    "highlight": false,
+    "polepos": false,
+    "ribbons": null
+   },
+   "phone_hidden": true,
+   "price_byn": "3000",
+   "price_usd": "1006",
+   "remuneration_type": "1",
+   "show_parameters": {
+    "show_call": false,
+    "show_chat": false,
+    "show_import_link": false,
+    "show_web_shop_link": false
+   },
+   "subject": "Ролики/коньки детские",
+   "type": "sell"
+  },
+  {
+   "account_id": "O8IayMIScwa_-xZ-aFta9aY",
+   "account_parameters": [
+    {
+     "pl": "Имя",
+     "vl": "",
+     "p": "name",
+     "v": "Monika",
+     "pu": "nme"
+    }
+   ],
+   "ad_id": 1082198332,
+   "ad_link": "https://www.kufar.by/item/1082198332",
+   "ad_parameters": [
+    {
+     "pl": "Категория",
+     "vl": "Спорттовары",
+     "p": "category",
+     "v": 4020,
+     "pu": "cat"
+    },
+    {
+     "pl": "Регион",
+     "vl": "Гомельская область",
+     "p": "region",
+     "v": 2,
+     "pu": "rgn"
+    },
+    {
+     "pl": "Город / Район",
+     "vl": "Гомель",
+     "p": "area",
+     "v": "5",
+     "pu": "ar"
+    },
+    {
+     "pl": "Тип оплаты",
+     "vl": "Цена",
+     "p": "remuneration_type",
+     "v": "1",
+     "pu": "rtr"
+    },
+    {
+     "pl": "Тип",
+     "vl": "Хоккей",
+     "p": "sports_type",
+     "v": "12",
+     "pu": "stp"
+    },
+    {
+     "pl": "Состояние",
+     "vl": "Новое",
+     "p": "condition",
+     "v": "2",
+     "pu": "cnd"
+    },
+    {
+     "pl": "Товары с Куфар Доставкой",
+     "vl": "Да",
+     "p": "delivery_enabled",
+     "v": true,
+     "pu": "dle"
+    }
+   ],
+   "body": null,
+   "body_short": null,
+   "calculator": [
+    {
+     "currency": "USD",
+     "price": "1676",
+     "price_per_meter": null
+    },
+    {
+     "currency": "EUR",
+     "price": "1432",
+     "price_per_meter": null
+    },
+    {
+     "currency": "BYN",
+     "price": "5000",
+     "price_per_meter": null
+    },
+    {
+     "currency": "RUB",
+     "price": "139727",
+     "price_per_meter": null
+    }
+   ],
+   "category": "4020",
+   "company_ad": false,
+   "currency": "BYR",
+   "feedback_info": null,
+   "images": [
+    {
+     "id": "0000",
+     "media_storage": "rms",
+     "path": "adim1/98dd2911-7c2c-443a-815f-3d310a68268c.jpg",
+     "yams_storage": false
+    },
+    {
+     "id": "0000",
+     "media_storage": "rms",
+     "path": "adim1/2e9afdb1-59a2-48e0-bbba-ee29d98258bb.jpg",
+     "yams_storage": false
+    },
+    {
+     "id": "0000",
+     "media_storage": "rms",
+     "path": "adim1/9d3bcce7-e7e9-4b0e-85d9-8753141c1a69.jpg",
+     "yams_storage": false
+    },
+    {
+     "id": "0000",
+     "media_storage": "rms",
+     "path": "adim1/ab001977-a602-4eab-9435-df692a3fbc6f.jpg",
+     "yams_storage": false
+    },
+    {
+     "id": "0000",
+     "media_storage": "rms",
+     "path": "adim1/ada65581-4c21-47c8-ab02-469d9e77851c.jpg",
+     "yams_storage": false
+    },
+    {
+     "id": "0000",
+     "media_storage": "rms",
+     "path": "adim1/a00ca8a3-4333-4fe2-a1fc-b7e75f799c8c.jpg",
+     "yams_storage": false
+    },
+    {
+     "id": "0000",
+     "media_storage": "rms",
+     "path": "adim1/c9160175-2c03-461c-8a36-c5af16a86cfc.jpg",
+     "yams_storage": false
+    },
+    {
+     "id": "0000",
+     "media_storage": "rms",
+     "path": "adim1/7522593e-d751-47d8-a892-d64ea34299b7.jpg",
+     "yams_storage": false
+    }
+   ],
+   "is_mine": false,
+   "list_id": 1082198332,
+   "list_time": "2026-08-23T10:05:02Z",
+   "message_id": "adid1082198332",
+   "paid_services": {
+    "halva": false,
+    "highlight": false,
+    "polepos": false,
+    "ribbons": null
+   },
+   "phone_hidden": false,
+   "price_byn": "5000",
+   "price_usd": "1676",
+   "remuneration_type": "1",
+   "show_parameters": {
+    "show_call": false,
+    "show_chat": false,
+    "show_import_link": false,
+    "show_web_shop_link": false
+   },
+   "subject": "Лезвия для фигурных коньков",
+   "type": "sell"
+  },
+  {
+   "account_id": "O9AeFvT6I8_-5jok3WPKl34",
+   "account_parameters": [
+    {
+     "pl": "Имя",
+     "vl": "",
+     "p": "name",
+     "v": "Елизавета",
+     "pu": "nme"
+    }
+   ],
+   "ad_id": 1081186652,
+   "ad_link": "https://www.kufar.by/item/1081186652",
+   "ad_parameters": [
+    {
+     "pl": "Категория",
+     "vl": "Спорттовары",
+     "p": "category",
+     "v": 4020,
+     "pu": "cat"
+    },
+    {
+     "pl": "Регион",
+     "vl": "Гомельская область",
+     "p": "region",
+     "v": 2,
+     "pu": "rgn"
+    },
+    {
+     "pl": "Город / Район",
+     "vl": "Гомель",
+     "p": "area",
+     "v": "5",
+     "pu": "ar"
+    },
+    {
+     "pl": "Тип оплаты",
+     "vl": "Цена",
+     "p": "remuneration_type",
+     "v": "1",
+     "pu": "rtr"
+    },
+    {
+     "pl": "Тип",
+     "vl": "Хоккей",
+     "p": "sports_type",
+     "v": "12",
+     "pu": "stp"
+    },
+    {
+     "pl": "Состояние",
+     "vl": "Б/у",
+     "p": "condition",
+     "v": "1",
+     "pu": "cnd"
+    },
+    {
+     "pl": "Товары с Куфар Доставкой",
+     "vl": "Да",
+     "p": "delivery_enabled",
+     "v": true,
+     "pu": "dle"
+    }
+   ],
+   "body": null,
+   "body_short": null,
+   "calculator": [
+    {
+     "currency": "USD",
+     "price": "41906",
+     "price_per_meter": null
+    },
+    {
+     "currency": "EUR",
+     "price": "35798",
+     "price_per_meter": null
+    },
+    {
+     "currency": "BYN",
+     "price": "125000",
+     "price_per_meter": null
+    },
+    {
+     "currency": "RUB",
+     "price": "3493181",
+     "price_per_meter": null
+    }
+   ],
+   "category": "4020",
+   "company_ad": false,
+   "currency": "BYR",
+   "feedback_info": null,
+   "images": [
+    {
+     "id": "0000",
+     "media_storage": "rms",
+     "path": "adim1/c3b96ba8-2290-4540-b3ab-f3d596618280.jpg",
+     "yams_storage": false
+    },
+    {
+     "id": "0000",
+     "media_storage": "rms",
+     "path": "adim1/b9907e77-8185-40c1-87cc-8e003b934dd9.jpg",
+     "yams_storage": false
+    },
+    {
+     "id": "0000",
+     "media_storage": "rms",
+     "path": "adim1/5d0d8c84-af5f-440b-b180-8d67a329f004.jpg",
+     "yams_storage": false
+    },
+    {
+     "id": "0000",
+     "media_storage": "rms",
+     "path": "adim1/3a2a5e46-4b9e-4d34-93e7-3802152bb839.jpg",
+     "yams_storage": false
+    },
+    {
+     "id": "0000",
+     "media_storage": "rms",
+     "path": "adim1/9d42a504-b1eb-40bd-ab18-d8151cc3a68b.jpg",
+     "yams_storage": false
+    },
+    {
+     "id": "0000",
+     "media_storage": "rms",
+     "path": "adim1/0fc97216-4877-41d7-b4fc-35138b73ff0d.jpg",
+     "yams_storage": false
+    },
+    {
+     "id": "0000",
+     "media_storage": "rms",
+     "path": "adim1/ed1c2665-9b2f-42a1-8619-bce675efbfdf.jpg",
+     "yams_storage": false
+    }
+   ],
+   "is_mine": false,
+   "list_id": 1081186652,
+   "list_time": "2026-08-23T09:26:09Z",
+   "message_id": "adid1081186652",
+   "paid_services": {
+    "halva": false,
+    "highlight": false,
+    "polepos": false,
+    "ribbons": null
+   },
+   "phone_hidden": true,
+   "price_byn": "125000",
+   "price_usd": "41906",
+   "remuneration_type": "1",
+   "show_parameters": {
+    "show_call": false,
+    "show_chat": false,
+    "show_import_link": false,
+    "show_web_shop_link": false
+   },
+   "subject": "Коньки хоккейные bauer hyperlite 2",
+   "type": "sell"
+  },
+  {
+   "account_id": "O5nHifmR9yJUZpsKE385l10",
+   "account_parameters": [
+    {
+     "pl": "Имя",
+     "vl": "",
+     "p": "name",
+     "v": "Высылаю по предоплате ",
+     "pu": "nme"
+    }
+   ],
+   "ad_id": 1079278460,
+   "ad_link": "https://www.kufar.by/item/1079278460",
+   "ad_parameters": [
+    {
+     "pl": "Категория",
+     "vl": "Спорттовары",
+     "p": "category",
+     "v": 4020,
+     "pu": "cat"
+    },
+    {
+     "pl": "Регион",
+     "vl": "Гомельская область",
+     "p": "region",
+     "v": 2,
+     "pu": "rgn"
+    },
+    {
+     "pl": "Город / Район",
+     "vl": "Гомель",
+     "p": "area",
+     "v": "5",
+     "pu": "ar"
+    },
+    {
+     "pl": "Тип оплаты",
+     "vl": "Цена",
+     "p": "remuneration_type",
+     "v": "1",
+     "pu": "rtr"
+    },
+    {
+     "pl": "Тип",
+     "vl": "Коньки",
+     "p": "sports_type",
+     "v": "5",
+     "pu": "stp"
+    },
+    {
+     "pl": "Размер",
+     "vl": [
+      "23",
+      "33",
+      "34",
+      "35",
+      "36"
+     ],
+     "p": "sports_shoes_size",
+     "v": [
+      4,
+      14,
+      15,
+      16,
+      17
+     ],
+     "pu": "ssz"
+    },
+    {
+     "pl": "Состояние",
+     "vl": "Б/у",
+     "p": "condition",
+     "v": "1",
+     "pu": "cnd"
+    },
+    {
+     "pl": "Товары с Куфар Доставкой",
+     "vl": "Да",
+     "p": "delivery_enabled",
+     "v": true,
+     "pu": "dle"
+    }
+   ],
+   "body": null,
+   "body_short": null,
+   "calculator": [
+    {
+     "currency": "USD",
+     "price": "26484",
+     "price_per_meter": null
+    },
+    {
+     "currency": "EUR",
+     "price": "22624",
+     "price_per_meter": null
+    },
+    {
+     "currency": "BYN",
+     "price": "79000",
+     "price_per_meter": null
+    },
+    {
+     "currency": "RUB",
+     "price": "2207691",
+     "price_per_meter": null
+    }
+   ],
+   "category": "4020",
+   "company_ad": false,
+   "currency": "BYR",
+   "feedback_info": null,
+   "images": [
+    {
+     "id": "0000",
+     "media_storage": "rms",
+     "path": "adim1/9a1374eb-3271-463d-a0df-a53bbbeeee87.jpg",
+     "yams_storage": false
+    },
+    {
+     "id": "0000",
+     "media_storage": "rms",
+     "path": "adim1/16a2413f-cb9d-4fb8-a359-ae7c8bbf9a47.jpg",
+     "yams_storage": false
+    },
+    {
+     "id": "0000",
+     "media_storage": "rms",
+     "path": "adim1/5b9c9c1f-1f7c-4a94-ad14-69a2588f6c7d.jpg",
+     "yams_storage": false
+    },
+    {
+     "id": "0000",
+     "media_storage": "rms",
+     "path": "adim1/858970ba-38ae-4e7f-85da-70107a116645.jpg",
+     "yams_storage": false
+    },
+    {
+     "id": "0000",
+     "media_storage": "rms",
+     "path": "adim1/8da6dffd-9ff3-43de-b03a-13526ba6fa98.jpg",
+     "yams_storage": false
+    },
+    {
+     "id": "0000",
+     "media_storage": "rms",
+     "path": "adim1/3e49318a-87e3-4c96-a0d5-a96ee6adc74e.jpg",
+     "yams_storage": false
+    },
+    {
+     "id": "0000",
+     "media_storage": "rms",
+     "path": "adim1/dc9b807f-b616-4297-808f-f7f212565990.jpg",
+     "yams_storage": false
+    }
+   ],
+   "is_mine": false,
+   "list_id": 1079278460,
+   "list_time": "2026-08-23T08:17:14Z",
+   "message_id": "adid1079278460",
+   "paid_services": {
+    "halva": false,
+    "highlight": false,
+    "polepos": false,
+    "ribbons": null
+   },
+   "phone_hidden": true,
+   "price_byn": "79000",
+   "price_usd": "26484",
+   "remuneration_type": "1",
+   "show_parameters": {
+    "show_call": false,
+    "show_chat": false,
+    "show_import_link": false,
+    "show_web_shop_link": false
+   },
+   "subject": "Коньки Эдеа Овертюр 23,5С лезвия Шарме",
+   "type": "sell"
+  },
+  {
+   "account_id": "O5nHifmR9yJUZpsKE385l10",
+   "account_parameters": [
+    {
+     "pl": "Имя",
+     "vl": "",
+     "p": "name",
+     "v": " Высылаю По предоплате ",
+     "pu": "nme"
+    }
+   ],
+   "ad_id": 1043009803,
+   "ad_link": "https://www.kufar.by/item/1043009803",
+   "ad_parameters": [
+    {
+     "pl": "Категория",
+     "vl": "Спорттовары",
+     "p": "category",
+     "v": 4020,
+     "pu": "cat"
+    },
+    {
+     "pl": "Регион",
+     "vl": "Гомельская область",
+     "p": "region",
+     "v": 2,
+     "pu": "rgn"
+    },
+    {
+     "pl": "Город / Район",
+     "vl": "Гомель",
+     "p": "area",
+     "v": "5",
+     "pu": "ar"
+    },
+    {
+     "pl": "Тип оплаты",
+     "vl": "Цена",
+     "p": "remuneration_type",
+     "v": "1",
+     "pu": "rtr"
+    },
+    {
+     "pl": "Тип",
+     "vl": "Коньки",
+     "p": "sports_type",
+     "v": "5",
+     "pu": "stp"
+    },
+    {
+     "pl": "Размер",
+     "vl": [
+      "< 20",
+      "21",
+      "29",
+      "30"
+     ],
+     "p": "sports_shoes_size",
+     "v": [
+      1,
+      2,
+      10,
+      11
+     ],
+     "pu": "ssz"
+    },
+    {
+     "pl": "Состояние",
+     "vl": "Б/у",
+     "p": "condition",
+     "v": "1",
+     "pu": "cnd"
+    },
+    {
+     "pl": "Товары с Куфар Доставкой",
+     "vl": "Да",
+     "p": "delivery_enabled",
+     "v": true,
+     "pu": "dle"
+    }
+   ],
+   "body": null,
+   "body_short": null,
+   "calculator": [
+    {
+     "currency": "USD",
+     "price": "9387",
+     "price_per_meter": null
+    },
+    {
+     "currency": "EUR",
+     "price": "8019",
+     "price_per_meter": null
+    },
+    {
+     "currency": "BYN",
+     "price": "28000",
+     "price_per_meter": null
+    },
+    {
+     "currency": "RUB",
+     "price": "782473",
+     "price_per_meter": null
+    }
+   ],
+   "category": "4020",
+   "company_ad": false,
+   "currency": "BYR",
+   "feedback_info": null,
+   "images": [
+    {
+     "id": "0000",
+     "media_storage": "rms",
+     "path": "adim1/5261e6c9-d829-4390-acb0-eef084ba7cfc.jpg",
+     "yams_storage": false
+    },
+    {
+     "id": "0000",
+     "media_storage": "rms",
+     "path": "adim1/ce3d1af4-6312-4074-9185-37576ca69569.jpg",
+     "yams_storage": false
+    },
+    {
+     "id": "0000",
+     "media_storage": "rms",
+     "path": "adim1/7c7af689-f234-46d4-9b2f-a6a80813c0a2.jpg",
+     "yams_storage": false
+    },
+    {
+     "id": "0000",
+     "media_storage": "rms",
+     "path": "adim1/d21371dc-c0b0-409e-b292-64e0d8b7c339.jpg",
+     "yams_storage": false
+    },
+    {
+     "id": "0000",
+     "media_storage": "rms",
+     "path": "adim1/e82d025b-226c-437b-bacf-f6bd6b83d8fd.jpg",
+     "yams_storage": false
+    },
+    {
+     "id": "0000",
+     "media_storage": "rms",
+     "path": "adim1/2445bfb7-7f9a-4982-8df3-50d8ce229f43.jpg",
+     "yams_storage": false
+    },
+    {
+     "id": "0000",
+     "media_storage": "rms",
+     "path": "adim1/69ce1913-7d9b-4b79-a1c8-d186a6b97046.jpg",
+     "yams_storage": false
+    },
+    {
+     "id": "0000",
+     "media_storage": "rms",
+     "path": "adim1/b6c0b1be-2223-4936-a316-b51c106fd226.jpg",
+     "yams_storage": false
+    },
+    {
+     "id": "0000",
+     "media_storage": "rms",
+     "path": "adim1/1c1523b4-f98b-4dff-b9a4-285312af3f01.jpg",
+     "yams_storage": false
+    }
+   ],
+   "is_mine": false,
+   "list_id": 1043009803,
+   "list_time": "2026-08-23T07:54:49Z",
+   "message_id": "adid1043009803",
+   "paid_services": {
+    "halva": false,
+    "highlight": false,
+    "polepos": false,
+    "ribbons": null
+   },
+   "phone_hidden": true,
+   "price_byn": "28000",
+   "price_usd": "9387",
+   "remuneration_type": "1",
+   "show_parameters": {
+    "show_call": false,
+    "show_chat": false,
+    "show_import_link": false,
+    "show_web_shop_link": false
+   },
+   "subject": "Коньки фигур Эдеа , лезвие баланс 20,5С/20см",
+   "type": "sell"
+  }
+ ],
+ "page_type": "search_page",
+ "pagination": {
+  "pages": [
+   {
+    "label": "self",
+    "num": 1,
+    "token": null
+   },
+   {
+    "label": "next",
+    "num": 2,
+    "token": "eyJ0IjoiYWJzIiwiZiI6dHJ1ZSwicCI6MiwicGl0IjoiMjk3OTEzNzYifQ=="
+   },
+   {
+    "label": "",
+    "num": 3,
+    "token": "eyJ0IjoiYWJzIiwiZiI6dHJ1ZSwicCI6MywicGl0IjoiMjk3OTEzNzYifQ=="
+   },
+   {
+    "label": "",
+    "num": 4,
+    "token": "eyJ0IjoiYWJzIiwiZiI6dHJ1ZSwicCI6NCwicGl0IjoiMjk3OTEzNzYifQ=="
+   },
+   {
+    "label": "",
+    "num": 5,
+    "token": "eyJ0IjoiYWJzIiwiZiI6dHJ1ZSwicCI6NSwicGl0IjoiMjk3OTEzNzYifQ=="
+   }
+  ]
+ },
+ "total": 386
+}

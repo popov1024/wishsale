@@ -1,0 +1,24 @@
+app:
+  scan_interval_min: 10      # базовый интервал сканирования
+  jitter_sec: 120            # случайный сдвиг интервала (вежливый скрейпинг)
+  page_size: 30              # объявлений на страницу запроса к Kufar
+  max_pages: 2               # максимум страниц на один регион
+  user_agent: "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+  db_path: "data/wishsale.db"
+  log_dir: "logs"
+
+# Объекты мониторинга: у каждого свой запрос, регионы и фильтры.
+# Формат можно расширять: price (мин/макс), all_keywords: true и т.д.
+targets:
+  - name: "Фигурные коньки Graf / Edea / Risport 37"
+    query: "коньки"
+    category: 4020                    # Спорттовары (опционально)
+    regions:
+      - { rgn: 2, ar: 5, label: "Гомель" }   # Гомельская обл. / Гомель
+      - { rgn: 7, label: "Минск" }            # Минск — отдельный регион (rgn=7)
+    must_contain: [graf, edea, risport]      # бренды (OR; для AND — all_keywords: true)
+    must_not_contain: [хоккейн, детск, "конек кровельн"]  # антимусор
+    params:                                  # фильтр по параметрам Kufar
+      sports_shoes_size:                     # код параметра из ad_parameters
+        min: 37
+        max: 37

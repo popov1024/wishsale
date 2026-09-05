@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.egg-info/
+.pytest_cache/
+
+# Секреты — токен бота НЕ попадает в git
+.env
+
+# Данные и логи
+data/
+logs/
+*.log
+
+# Docker
+.dockerignore
+
+# OS / IDE
+.DS_Store
+.idea/
+.vscode/
