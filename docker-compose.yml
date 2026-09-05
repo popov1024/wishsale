@@ -11,7 +11,8 @@ services:
       - HTTPS_PROXY=${HTTPS_PROXY:-}
       - HTTP_PROXY=${HTTP_PROXY:-}
     volumes:
-      - ./data:/app/data          # SQLite и логи переживают пересоздание контейнера
+      - ./data:/app/data          # SQLite-база (переживает пересоздание контейнера)
+      - ./logs:/app/logs          # логи приложения
       - ./config.yaml:/app/config.yaml:ro
     healthcheck:
       test: ["CMD", "python", "-c", "import sqlite3; sqlite3.connect('/app/data/wishsale.db').execute('select 1')"]

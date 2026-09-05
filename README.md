@@ -53,12 +53,17 @@ NOTIFY_CHAT_ID=123456789        # личный чат или группа (чи�
 ```bash
 docker compose up -d --build
 docker compose logs -f wishsale
-docker compose down        # остановка (данные в ./data сохраняются)
+docker compose down        # остановка (данные в ./data и ./logs сохраняются)
 ```
 
 Тома:
-- `./data` — SQLite-база и логи (переживают пересоздание контейнера);
+- `./data` — SQLite-база (переживает пересоздание контейнера);
+- `./logs` — логи приложения (`wishsale.log`);
 - `./config.yaml` — монтируется read-only, правки без пересборки.
+
+> На Linux перед первым запуском создайте каталоги, иначе Docker создаст их
+> от root и контейнер (работает от не-root пользователя) не сможет писать:
+> `mkdir -p data logs`.
 
 ## Telegram API и прокси
 
