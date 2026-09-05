@@ -10,12 +10,11 @@ WORKDIR /app
 COPY requirements.txt .
 RUN pip install --no-cache-dir -r requirements.txt
 
-# Запуск от не-root пользователя
-RUN useradd -m app
-COPY --chown=app:app . .
-RUN mkdir -p /app/data /app/logs && chown -R app:app /app
-USER app
+COPY . .
+RUN mkdir -p /app/data /app/logs
 
+# Контейнер работает от root: bind-mounted каталоги (./data, ./logs)
+# на хосте могут принадлежать любому uid — root пишет в них без ошибок.
 HEALTHCHECK --interval=1m --timeout=5s --start-period=10s --retries=3 \
     CMD python -c "import sqlite3; sqlite3.connect('/app/data/wishsale.db').execute('select 1')" || exit 1
 
